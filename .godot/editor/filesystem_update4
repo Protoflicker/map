@@ -1,0 +1,5 @@
+res://Scene/Level.tscn
+res://Script/PlayerController.gd
+res://Scene/fruit.tscn
+res://Scene/options.tscn
+res://Scene/Menu.tscn
